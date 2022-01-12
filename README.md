@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-[Rest-countries.png](https://postimg.cc/R6zV10y8)
+[![Rest-countries.png](https://i.postimg.cc/DZSJTJg2/Rest-countries.png)](https://postimg.cc/R6zV10y8)
