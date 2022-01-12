@@ -1,5 +1,4 @@
-import "./App.css";
-import { Countries } from "./component/AsianCountries";
+import { Countries } from "./features/AsianCountries";
 function App() {
   return (
     <div className="App">
