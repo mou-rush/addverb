@@ -31,4 +31,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-![Alt text](/relative/path/to/https://github.com/mou-rush/addverb/blob/main/src/assets/rest_countries.PNG?raw=true "Optional Title")
+[Rest-countries.png](https://postimg.cc/R6zV10y8)
